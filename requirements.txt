@@ -1,0 +1,3 @@
+yt_dlp==2022.10.4
+infi.systray==0.1.12
+pywin32==305

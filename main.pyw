@@ -1,6 +1,6 @@
 from infi.systray import SysTrayIcon
 import win32clipboard
-import youtube_dl as ydl
+import yt_dlp as ydl
 import json
 import threading
 import os
